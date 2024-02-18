@@ -1,0 +1,7 @@
+.env
+config.env
+
+/node_modules
+/Consumer_Frontend_Main/formsubmission/node_modules
+/frontend/formsubmission/node_modules
+/CRUD_API/node_modules
